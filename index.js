@@ -1,4 +1,4 @@
-// !# /usr/bin/env node
+#! /usr/bin/env node
 // TO DO LIST:
 import inquirer from "inquirer";
 let workList = [];
